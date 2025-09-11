@@ -63,8 +63,3 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=iamgatling&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
 </p>
-
----
-
-## 👀 Visitors
-[![](https://visitcount.itsvg.in/api?id=iamgatling&icon=0&color=0)](https://visitcount.itsvg.in)
