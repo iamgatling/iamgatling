@@ -1,12 +1,11 @@
-# 👋 Hi there, I'm Gatling
+<h1 align="center">👋 Hi there, I'm Gatling</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=84A12D&size=30&center=true&vCenter=true&linesFull+Stack+Engineer;Open+Sourcer;Problem+Solver;Critical+Thinker;I+love+building+stuff" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=84A12D&size=30&center=true&vCenter=true&lines=Full+Stack+Engineer;Open+Sourcer;Problem+Solver;Critical+Thinker;I+love+building+stuff" />
   </a>
 </p>
 
----
 ---
 
 ## 🌐 Socials
@@ -51,7 +50,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamgatling&show_icons=true&theme=tokyonight)  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamgatling&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamgatling&theme=tokyo-night)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgatling&layout=compact&theme=tokyonight)
 
