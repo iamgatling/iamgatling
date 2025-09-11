@@ -45,6 +45,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamgatling&show_icons=true&theme=tokyonight)  
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamgatling&theme=github-compact)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgatling&layout=compact&theme=tokyonight)
 
 </p>
