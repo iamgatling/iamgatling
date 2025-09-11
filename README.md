@@ -1,6 +1,12 @@
 # 👋 Hi there, I'm Gatling
-**Full-stack Developer | Open Source Enthusiast | Always Building**
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=84A12D&size=30&center=true&vCenter=true&linesFull+Stack+Engineer;Open+Sourcer;Problem+Solver;Critical+Thinker;I+love+building+stuff" />
+  </a>
+</p>
+
+---
 ---
 
 ## 🌐 Socials
