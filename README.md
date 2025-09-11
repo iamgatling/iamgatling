@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gatling 🚀  
+# 👋 Hi there, I'm Gatling
 **Full-stack Developer | Open Source Enthusiast | Always Building**
 
 ---
