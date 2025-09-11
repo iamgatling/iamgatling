@@ -16,6 +16,14 @@ Junior Full-stack Developer🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgatling&layout=compact&theme=tokyonight)
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamgatling&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamgatling&theme=tokyonight)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=iamgatling&icon=0&color=0)](https://visitcount.itsvg.in)
 
