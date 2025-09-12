@@ -12,7 +12,9 @@
 
 ## 🌐 Socials
 <p align="center">
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamgatling)
+  <a href="https://x.com/iamgatling" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
 </p>
 ---
 
